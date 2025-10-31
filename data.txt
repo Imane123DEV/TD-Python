@@ -1,0 +1,6 @@
+En informatique, la notion de texte s'oppose à la notion de  radar données binaires, on parle alors :
+
+de texte brut dans un protocole de télécommunication ;
+de document texte si le logiciel utilisé permet de formater le texte ;
+ou encore de texte formaté ou riche lorsque les indications de formats sont données en texte brut (exemple : Rich Text Format) ;
+de fichier texte dans un fichier qui ne contient que des caractères sans mise en forme autre que les sauts de lignes et le choix des caractères.
